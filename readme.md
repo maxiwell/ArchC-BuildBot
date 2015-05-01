@@ -37,4 +37,4 @@ If the service is already running, restart them:
 
 * [BuildBot Sample Conf](https://github.com/danirus/buildbot-sample-conf)
 * [BuildBot in 5 minutes](http://docs.buildbot.net/latest/tutorial/fiveminutes.html)
-
+* [BuildBot Concepts](http://docs.buildbot.net/latest/manual/concepts.html)
