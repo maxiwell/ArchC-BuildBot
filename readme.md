@@ -12,7 +12,6 @@ create the master:
 
 create the slaves:
 
-    root@server:~$ buildslave create-slave slaves/archc localhost:9989 archc pass
     root@server:~$ buildslave create-slave slaves/mips  localhost:9989 mips pass
 
 
@@ -23,7 +22,6 @@ Clone this project, and put the ''master.cfg'' into ''master'' folder
 ### Starting the services
 
     root@server:~$ buildbot start master
-    root@server:~$ buildslave start slaves/archc
     root@server:~$ buildslave start slaves/mips
 
 
